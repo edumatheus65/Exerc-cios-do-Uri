@@ -5,4 +5,4 @@ var raio = parseFloat(input)
 
 var A = PI * Math.pow(raio, 2)
 
-console.log('')
+console.log('A=' + A.toFixed(4))
