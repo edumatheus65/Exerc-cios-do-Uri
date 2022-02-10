@@ -9,4 +9,4 @@ var valorHora = parseFloat(valores.shift())
 var salario = qtdHoras * valorHora
 
 console.log("NUMBER = " + NumFunc)
-console.log("Salary = " + salario.toFixed(2))
+console.log("SALARY = U$ " + salario.toFixed(2))

@@ -7,6 +7,6 @@ var B = parseInt(valores.shift())
 var C = parseInt(valores.shift())
 var D = parseInt(valores.shift())
 
-var produto = (A * B - C * D)
+var DIFERENCA = (A*B-C*D)
 
-console.log("DIFERENÇA " + produto)
+console.log("DIFERENCA = " + DIFERENCA)

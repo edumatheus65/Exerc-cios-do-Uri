@@ -8,4 +8,4 @@ var C = parseFloat(valores.shift())
 
 var media = (A * 2 + B * 3 + C * 5) / 10
 
-console.log("MEDIA = " + media)
+console.log("MEDIA = " + media.toFixed(1))
